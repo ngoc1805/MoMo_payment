@@ -10,7 +10,7 @@ Dự án tích hợp thanh toán MoMo gồm 2 phần:
 ## Yêu cầu trước khi chạy
 
 - Tải app **MoMo UAT** về điện thoại và đăng ký tài khoản: https://developers.momo.vn/v3/download
-- otp mặc định là 000000 hoặc 0000 hoặc 111111 hoặc 1111, thử từng cái
+- Otp mặc định là 000000 hoặc 0000 hoặc 111111 hoặc 1111, thử từng cái
 - Xác thực căn cước công dân trên MoMo UAT trước khi thử nghiệm
 - Hướng dẫn nạp tiền ảo: https://drive.google.com/file/d/1a_emS2Vb7ltP6ajrRxw_1Iqafr09UqPl/view?usp=sharing
 - Liên kết ngân hàng gì cũng được, nhập đủ số là được, sau đó nạp tiền
